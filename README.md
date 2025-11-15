@@ -71,6 +71,7 @@ network_anomaly_detection_model.joblib
 
 It can be loaded for inference using:
 
+```markdown
 ```python
 model = joblib.load("network_anomaly_detection_model.joblib")
 
